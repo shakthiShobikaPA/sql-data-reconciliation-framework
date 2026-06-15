@@ -27,3 +27,5 @@ This project compares source and target datasets using SQL validation techniques
 - Data Reconciliation
 - Root Cause Analysis
 
+## Dashboard Preview 
+![SQL Data reconciliation Framework](SQL Data reconciliation Framework.xlsx)
